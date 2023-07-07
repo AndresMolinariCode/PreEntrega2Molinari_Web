@@ -8,7 +8,7 @@
 }
 
 .max-width-10 {
-  max-width: 20rem; /* Ajusta el valor según tus necesidades */
+  max-width: 20rem;
 }
 
 .background-image-container {
@@ -19,6 +19,16 @@
 }
 
 .input-container {
-  max-width: 300px; /* Ancho máximo deseado */
-  margin: 0 auto; /* Margen automático para centrar el input */
+  max-width: 300px; 
+  margin: 0 auto; 
+}
+
+#mySlider.carousel {
+  background-color: black;
+}
+
+#mySlider .carousel-inner .carousel-item img {
+  width: 50%;
+  height: 50%;
+  margin: 0 auto;
 }
