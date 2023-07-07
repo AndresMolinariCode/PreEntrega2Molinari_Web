@@ -6,3 +6,19 @@
 .logo-img {
   max-height: 50px;
 }
+
+.max-width-10 {
+  max-width: 20rem; /* Ajusta el valor según tus necesidades */
+}
+
+.background-image-container {
+  background-image: url('../img/gymbros_fondo_sitio_claro.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 500px;
+}
+
+.input-container {
+  max-width: 300px; /* Ancho máximo deseado */
+  margin: 0 auto; /* Margen automático para centrar el input */
+}
