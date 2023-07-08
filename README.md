@@ -1,6 +1,7 @@
 # PreEntrega2Molinari
 
 Páginas que incluyen bootstarp:
+
 -->index.html
   Pagina principal con slide que muestra promos, información general y botón de contacto 
   
